@@ -1,0 +1,5 @@
+E:\TFS\TLDMods\Skills\Skills\bin\Release\Skills.dll
+E:\TFS\TLDMods\Skills\Skills\bin\Release\Skills.pdb
+E:\TFS\TLDMods\Skills\Skills\obj\Release\Skills.csproj.CoreCompileInputs.cache
+E:\TFS\TLDMods\Skills\Skills\obj\Release\Skills.dll
+E:\TFS\TLDMods\Skills\Skills\obj\Release\Skills.pdb
